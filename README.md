@@ -79,9 +79,19 @@ Mindset:  Understand the fundamentals. Build with intent. Ship consistently.
 
 ---
 
-## 📈 GitHub Activity & Stats
+## 📈 GitHub Activity & Contribution Graph
 
 <div align="center">
+
+<a href="https://github.com/Scempyyy">
+  <img src="https://ghchart.rshah.org/0284C7/Scempyyy" alt="Scempyyy's Contribution Calendar" width="100%" />
+</a>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Scempyyy&theme=github_dark" alt="GitHub Profile & Year Activity" width="100%" />
+
+<br/><br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Scempyyy&theme=github_dark" height="185" alt="GitHub stats"/>
 &nbsp;
