@@ -79,6 +79,13 @@ Mindset:  Understand the fundamentals. Build with intent. Ship consistently.
 
 ---
 
+## ⌨️ Typing Speed
+
+- **Peak typing speed:** 111 WPM
+- **Recent test:** 105 WPM · 99% accuracy · 83% consistency
+
+---
+
 ## 📈 GitHub Activity & Contribution Graph
 
 <div align="center">
