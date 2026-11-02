@@ -6,7 +6,7 @@
 
 **I turn ideas into useful software and learn by building.**
 
-[Portfolio](https://scempyy.me) · [Repositories](https://github.com/Scempyy?tab=repositories)
+[Portfolio](https://scempyy.me) · [Repositories](https://github.com/Scempyyy?tab=repositories)
 
 </div>
 
@@ -28,11 +28,11 @@ Understand the system. Build with intent. Keep improving.
 
 | Project | What it does | Main stack |
 |---|---|---|
-| [Android Privacy Auditor](https://github.com/Scempyy/privacy-auditor) | Local-first static APK analysis with permission review and explainable findings | Python · FastAPI · Next.js · Kotlin |
-| [NeuroDrive AI](https://github.com/Scempyy/driver-security-system) | Experimental driver-attention monitoring and risk alerts | Python · OpenCV · MediaPipe · TypeScript |
-| [EvoRyz](https://github.com/Scempyy/EvoRyz) | Personal growth and accountability app for solo, duo, and team workflows | Expo · React Native · Supabase |
-| [RoboRabbit](https://github.com/Scempyy/Roborabbit) | Voice-first personal AI assistant prototype | Python · FastAPI · Piper |
-| [Web Development Projects](https://github.com/Scempyy/web-development-projects) | Frontend experiments and interactive interfaces | HTML · CSS · JavaScript |
+| [Android Privacy Auditor](https://github.com/Scempyyy/privacy-auditor) | Local-first static APK analysis with permission review and explainable findings | Python · FastAPI · Next.js · Kotlin |
+| [NeuroDrive AI](https://github.com/Scempyyy/driver-security-system) | Experimental driver-attention monitoring and risk alerts | Python · OpenCV · MediaPipe · TypeScript |
+| [EvoRyz](https://github.com/Scempyyy/EvoRyz) | Personal growth and accountability app for solo, duo, and team workflows | Expo · React Native · Supabase |
+| [RoboRabbit](https://github.com/Scempyyy/Roborabbit) | Voice-first personal AI assistant prototype | Python · FastAPI · Piper |
+| [Web Development Projects](https://github.com/Scempyyy/web-development-projects) | Frontend experiments and interactive interfaces | HTML · CSS · JavaScript |
 
 ## Toolbox
 
@@ -60,12 +60,13 @@ Understand the system. Build with intent. Keep improving.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Scempyyy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9" height="165" alt="GitHub contribution stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scempyyy&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9" height="165" alt="Most used languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Scempyyy&theme=github_dark" height="185" alt="GitHub contribution stats"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Scempyyy&theme=github_dark" height="185" alt="Top languages"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Scempyyy&theme=dark&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=C9D1D9&dates=8B949E&hide_border=true" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com/?user=Scempyyy&theme=dark&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=C9D1D9&dates=8B949E&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
