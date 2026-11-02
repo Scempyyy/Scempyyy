@@ -11,7 +11,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-scempyy.me-0284C7?style=flat-square&logo=google-chrome&logoColor=white)](https://scempyy.me)
 [![Email](https://img.shields.io/badge/Email-business.scempyy%40outlook.com-6366F1?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:business.scempyy@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Scempyyy-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/Scempyyy)
-[![Contributions](https://img.shields.io/badge/Contributions-69%2C000-10B981?style=flat-square&logo=github&logoColor=white)](https://github.com/Scempyyy)
 ![Focus](https://img.shields.io/badge/Focus-Mobile%20%7C%20AI%20%7C%20Security-0F172A?style=flat-square&labelColor=0F172A&color=0EA5E9)
 
 </div>
