@@ -99,7 +99,7 @@ Mindset:  Understand the fundamentals. Build with intent. Ship consistently.
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=Scempyyy&theme=dark&background=0D1117&ring=0284C7&fire=F59E0B&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&hide_border=true" alt="Contribution streak" height="185"/>
+<img src="./assets/streak.svg" alt="Contribution streak" height="185"/>
 
 </div>
 
