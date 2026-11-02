@@ -87,6 +87,34 @@ Mindset:  Understand the fundamentals. Build with intent. Ship consistently.
 
 ---
 
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<a href="https://github.com/Scempyyy?tab=achievements">
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="85" alt="Pull Shark" title="Pull Shark: Merged Pull Requests" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Scempyyy?tab=achievements">
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="85" alt="Pair Extraordinaire" title="Pair Extraordinaire: Co-authored Commits in Merged PR" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Scempyyy?tab=achievements">
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="85" alt="Quickdraw" title="Quickdraw: Closed Issue or PR within 5 Minutes" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Scempyyy?tab=achievements">
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="85" alt="YOLO" title="YOLO: Merged PR without Review" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Scempyyy?tab=achievements">
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" width="85" alt="Galaxy Brain" title="Galaxy Brain: Answered a Q&A Discussion" />
+</a>
+
+</div>
+
+---
+
 ## 📈 GitHub Activity & Contribution Graph
 
 <div align="center">
