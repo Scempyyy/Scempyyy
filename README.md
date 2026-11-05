@@ -58,6 +58,51 @@ I am a software engineer and AI/ML builder focused on practical, high-reliabilit
 
 ---
 
+## 🛡️ The Phalanx Zero-Dependency Engineering Suite (30 Autonomous Micro-Systems)
+
+A complete suite of 30 standalone, zero-external-dependency developer utilities, security sentinels, and edge productivity tools built purely with standard Python 3:
+
+<details>
+<summary><b>View All 30 Micro-Systems & Repositories (Click to Expand)</b></summary>
+<br/>
+
+| Micro-System | Domain | Capability | Repository |
+|---|---|---|---|
+| **KeyPhalanx** | Security | Secret & token leak guardian with zero-latency pre-commit scanning | [Scempyyy/KeyPhalanx](https://github.com/Scempyyy/KeyPhalanx) |
+| **KromaProbe** | API Dev | Local HTTP/REST testing studio with response telemetry | [Scempyyy/KromaProbe](https://github.com/Scempyyy/KromaProbe) |
+| **OrbitVigil** | Monitoring | Website uptime monitor & SSL certificate health tracker | [Scempyyy/OrbitVigil](https://github.com/Scempyyy/OrbitVigil) |
+| **DevReplicant** | DevOps | Deterministic dev environment & runtime snapshot engine | [Scempyyy/DevReplicant](https://github.com/Scempyyy/DevReplicant) |
+| **ExtenScope** | Security | Chrome/Firefox browser extension permission risk auditor | [Scempyyy/ExtenScope](https://github.com/Scempyyy/ExtenScope) |
+| **RepoVitalis** | OSS Health | Open-source repository health & bus-factor analyzer | [Scempyyy/RepoVitalis](https://github.com/Scempyyy/RepoVitalis) |
+| **DockVigil** | Self-Hosting | Docker container health & resource monitor console | [Scempyyy/DockVigil](https://github.com/Scempyyy/DockVigil) |
+| **PortPhalanx** | Hardware Sec | USB device audit sentinel & keystroke injection detector | [Scempyyy/PortPhalanx](https://github.com/Scempyyy/PortPhalanx) |
+| **SysPhalanx** | System Admin | Autonomous Linux system troubleshooter & diagnostics | [Scempyyy/SysPhalanx](https://github.com/Scempyyy/SysPhalanx) |
+| **SocketVigil** | Networking | Network socket inspector & egress telemetry map | [Scempyyy/SocketVigil](https://github.com/Scempyyy/SocketVigil) |
+| **ThermoPhalanx** | Hardware | Laptop thermal intelligence & fan throttle controller | [Scempyyy/ThermoPhalanx](https://github.com/Scempyyy/ThermoPhalanx) |
+| **ShellVigil** | Terminal | Destructive command interceptor & safety copilot | [Scempyyy/ShellVigil](https://github.com/Scempyyy/ShellVigil) |
+| **HookPhalanx** | Cyber Defense | Zero-trust phishing link sandbox & URL redirect tracer | [Scempyyy/HookPhalanx](https://github.com/Scempyyy/HookPhalanx) |
+| **PermPhalanx** | Sandboxing | Bubblewrap sandbox launcher & app permission studio | [Scempyyy/PermPhalanx](https://github.com/Scempyyy/PermPhalanx) |
+| **CogniPhalanx** | Knowledge | Offline personal knowledge base with BM25 search | [Scempyyy/CogniPhalanx](https://github.com/Scempyyy/CogniPhalanx) |
+| **ActionVigil** | Automation | Local AI desktop operator with strict safety boundaries | [Scempyyy/ActionVigil](https://github.com/Scempyyy/ActionVigil) |
+| **ScholarPhalanx** | Academic | Student digital vault, assignment planner & GPA engine | [Scempyyy/ScholarPhalanx](https://github.com/Scempyyy/ScholarPhalanx) |
+| **ClientPhalanx** | Business | Freelancer client portal, contract tracker & invoicing | [Scempyyy/ClientPhalanx](https://github.com/Scempyyy/ClientPhalanx) |
+| **SitePhalanx** | Web Gen | Local business website generator & Schema.org engine | [Scempyyy/SitePhalanx](https://github.com/Scempyyy/SitePhalanx) |
+| **KinPhalanx** | Family Safety | Network safety guardian & DNS blocking controller | [Scempyyy/KinPhalanx](https://github.com/Scempyyy/KinPhalanx) |
+| **ClipPhalanx** | Security | Clipboard sentinel, credential sanitizer & history vault | [Scempyyy/ClipPhalanx](https://github.com/Scempyyy/ClipPhalanx) |
+| **CronPhalanx** | Reliability | Smart cron monitor, failure alert & dead man's switch | [Scempyyy/CronPhalanx](https://github.com/Scempyyy/CronPhalanx) |
+| **CodePhalanx** | Code Quality | Local AST code review & static analysis studio | [Scempyyy/CodePhalanx](https://github.com/Scempyyy/CodePhalanx) |
+| **CommitPhalanx** | Git Tools | Conventional commit synthesizer & changelog generator | [Scempyyy/CommitPhalanx](https://github.com/Scempyyy/CommitPhalanx) |
+| **DocPhalanx** | Document AI | PDF to clean Markdown reconstructor & audio reader | [Scempyyy/DocPhalanx](https://github.com/Scempyyy/DocPhalanx) |
+| **ReadPhalanx** | Productivity | Distraction-free offline reading queue & readability vault | [Scempyyy/ReadPhalanx](https://github.com/Scempyyy/ReadPhalanx) |
+| **SchemaPhalanx** | Database | Database migration assistant, SQL diff & ERD visualizer | [Scempyyy/SchemaPhalanx](https://github.com/Scempyyy/SchemaPhalanx) |
+| **CostPhalanx** | Cloud FinOps | Multi-cloud cost estimator & idle resource detector | [Scempyyy/CostPhalanx](https://github.com/Scempyyy/CostPhalanx) |
+| **MetricPhalanx** | SaaS Growth | Micro-SaaS MRR analytics, cohort retention & churn radar | [Scempyyy/MetricPhalanx](https://github.com/Scempyyy/MetricPhalanx) |
+| **EchoPhalanx** | Audio Dev | Podcast / lecture summarizer & YouTube chapter generator | [Scempyyy/EchoPhalanx](https://github.com/Scempyyy/EchoPhalanx) |
+
+</details>
+
+---
+
 ## ⚡ Engineering Principles
 
 - 🛡️ **Privacy by Architecture:** Software should respect user data autonomy. Prefer local-first computation, explainable scoring, and zero unnecessary cloud telemetry.
